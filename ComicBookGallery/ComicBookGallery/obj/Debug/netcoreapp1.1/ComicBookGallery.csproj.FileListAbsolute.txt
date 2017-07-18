@@ -1,0 +1,9 @@
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\bin\Debug\netcoreapp1.1\ComicBookGallery.deps.json
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\bin\Debug\netcoreapp1.1\ComicBookGallery.runtimeconfig.json
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\bin\Debug\netcoreapp1.1\ComicBookGallery.runtimeconfig.dev.json
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\bin\Debug\netcoreapp1.1\ComicBookGallery.dll
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\bin\Debug\netcoreapp1.1\ComicBookGallery.pdb
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\obj\Debug\netcoreapp1.1\ComicBookGallery.csprojResolveAssemblyReference.cache
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\obj\Debug\netcoreapp1.1\ComicBookGallery.AssemblyInfo.cs
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\obj\Debug\netcoreapp1.1\ComicBookGallery.dll
+C:\Users\alien\Source\Repos\comic-book-gallery\ComicBookGallery\ComicBookGallery\obj\Debug\netcoreapp1.1\ComicBookGallery.pdb
