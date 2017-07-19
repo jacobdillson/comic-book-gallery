@@ -23,6 +23,7 @@ namespace ComicBookGallery
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
             app.UseMvcWithDefaultRoute();
+            app.UseStaticFiles();
         }
     }
 }
